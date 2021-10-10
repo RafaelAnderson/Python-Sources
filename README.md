@@ -1,1 +1,2 @@
-# Automate the Boring Stuff with Python / Code and examples
+# Python's book
+## Automate the Boring Stuff with Python
